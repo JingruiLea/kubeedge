@@ -1,4 +1,4 @@
-module github.com/kubeedge/kubeedge
+module github.com/jingruilea/kubeedge
 
 go 1.13
 
@@ -40,7 +40,7 @@ require (
 	github.com/imdario/mergo v0.3.7 // indirect
 	github.com/karrick/godirwalk v1.10.12 // indirect
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
-	github.com/kubeedge/beehive v0.0.0
+	github.com/kubeedge/beehive v0.0.0-20191017124426-ba571a087934
 	github.com/kubeedge/viaduct v0.0.0
 	github.com/kubernetes-csi/csi-lib-utils v0.6.1
 	github.com/mattn/go-sqlite3 v1.11.0
